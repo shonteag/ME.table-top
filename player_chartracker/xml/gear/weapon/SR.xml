@@ -1,0 +1,113 @@
+<weapon_type key='SR' name='Sniper Rifle'>
+	<manufacturer key='man_AT' name="Ariake Technologies">
+		<weapon key='man_AT_weapon_SR_naginata' name="Naginata">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_AA' name="Armax Arsenal">
+		<weapon key='man_AA_weapon_SR_punisher' name="Punisher">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_BSA' name="Batarian State Arms">
+		<weapon key='man_BSA_weapon_SR_lightningstrike' name="Lightning Strike">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_CS' name="Cerberus Skunkworks">
+		<weapon key='man_CS_weapon_SR_titan' name="Titan">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_DI' name="Devlon Industries">
+		<weapon key='man_DI_weapon_SR_striker' name="Striker">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_ERCS' name="Elanus Risk Control Services">
+		<weapon key='man_ERCS_weapon_SR_hammer' name="Hammer">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_EC' name="Elkoss Combine">
+		<weapon key='man_EC_weapon_SR_reaper' name="Reaper">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_HK' name="Hahne-Kedar">
+		<weapon key='man_HK_weapon_SR_avenger' name="Avenger">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_HA' name="Haliat Armory">
+		<weapon key='man_HA_weapon_SR_equalizer' name="Equalizer">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_JT' name="Jormangund Technology">
+		<weapon key='man_JT_weapon_SR_helix' name="Helix">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_KF' name="Kassa Fabrication">
+		<weapon key='man_KF_weapon_SR_harpoon' name="Harpoon">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_RM' name="Rosenkov Materials">
+		<weapon key='man_RM_weapon_SR_volkov' name="Volkov">
+			<rarity key='0' speed='1' damage='8' mod_slots='0' crit_chance='3' crit_multiplier='1.1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='4' crit_multiplier='1.2' />
+			<rarity key='2' speed='1' damage='10' mod_slots='1' crit_chance='5' crit_multiplier='1.3' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.5' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='6' crit_multiplier='1.6' />
+		</weapon>
+	</manufacturer>
+
+
+
+</weapon_type>

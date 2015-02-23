@@ -1,0 +1,48 @@
+	HELP DOCUMENT
+
+-------------------------------------------------------------------------------------
+Copyright Notice
+All images, names, persons, etc. related in any way to the Mass Effect universe are
+property of BioWare and (unfortunately) Electronic Arts. The developer of this game
+and any accompanying software is not in any way claiming ownership of any material
+owned by the aforementioned two.
+-------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------
+Software Details
+Author   : Shonte Amato-Grill (RamilVenoard)
+Version  : Alpha 1.5.3
+Date     : November 2014
+-------------------------------------------------------------------------------------
+
+
+Document Purpose:
+To help the DM become familiar with this piece of software and its use in creating, tracking, and running table-top ME games. Refer to this document for help pertaining to
+operation of THIS SOFTWARE SUITE. This manual does not contain help information regarding playing of the actual game.
+
+Creating your game:
+1) Create a new game by navigating to the "File" menu and selecting "New Game". Give it a name, and then continue.
+2) Navigate to the tree view in the left of the screen and select the game you just created. Click "Load" at the base of the tree view.
+   NOTE: Doing so will remove the help screen, and bring you to the "Game Details" screen.
+3) Games are made up of missions. So let's add a Mission. Click the "Add Mission" button, give it a name, a level (1-20), and a difficulty (1-4).
+4) Now expand the "Missions" item in the tree view, and select the mission you just created. You can edit it's properties here.
+   NOTE: YOU MUST SAVE ALL CHANGES TO ANY ITEM YOU EDIT BY CLICKING "Update" IN THE UPPER RIGHT CORNER!
+5) A mission is made up of encounters. Encounters are groups of enemy mobs for the players to battle. Add an encounter by clicking the "Add Encounter" button. Give it a
+   name and continue.
+6) Now use the treeview to load this new encounter. You will notice, the encounter you just created will have inherited the "level" and "difficulty" of its parent Mission.
+   If you want to make a more challenging encounter, or a less challenging encounter, you can toy about with the encounter properties in this window. Don't forget to click
+   "Update" (in the upper right corner) when you're done!
+7) Encounters consit of enemies (also referred to as 'mobs'). Add an enemy to your encounter by selecting the "Add Enemy" button. Give it a name.
+8) Now select the enemy and load it. You can muck about with the settings to create a less or more challenging enemy. You can also roll health, shield, and shield recharge
+   based on the stats, level, and difficulty you give that enemy. Careful not to make the encounter too challenging, or players will be frustrated. Frustrated D&D players
+   often break tables, throw things, and generally make fools of their wide and kneck-beardy selves.
+   DISCLAIMER: Author and distributer of this game not responsible for rampant kneck-beards. DM agrees to assume all risk.
+9) Save your game to a file for later use by selecting the "File" from the top menu, and then "Save Game". Give it a file, and click "Save".
+
+To load a game:
+1) Navigate to the "File" menu, select "Load Game", and select the file you used to save the desired game. Click "Open".
+
+A Note About Saving:
+When you save and then load a game, if you were in combat when the game was saved, all enemies will be reset to max health and shields. Do not "quit" play during combat.
+
+The Combat Tracker:

@@ -1,0 +1,113 @@
+<weapon_type key='SH' name='Shotgun'>
+	<manufacturer key='man_AT' name="Ariake Technologies">
+		<weapon key='man_AT_weapon_SH_katana' name="Katana" special="Melee Synergy: This weapon is equipt with an durasteel blade, allowing it to take the place of a SWORD on melee classes.">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_AA' name="Armax Arsenal">
+		<weapon key='man_AA_weapon_SH_avalanche' name="Avalanche" >
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' special="Weapon Special: Equipped with a sysmic grenade launcher, cause destabilization in surrounding area. ONCE per encounter." />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_BSA' name="Batarian State Arms">
+		<weapon key='man_BSA_weapon_SH_executioner' name="Executioner" special="Weapon Passive: Executions performed with this weapon cause intense gore, mangling the body ususally beyond visual identification.">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_CS' name="Cerberus Skunkworks">
+		<weapon key='man_CS_weapon_SH_hydra' name="Hydra" special="Biotic Synergy: BIOTIC NOVA now hits up to +1 addition enemy.">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_DI' name="Devlon Industries">
+		<weapon key='man_DI_weapon_SH_firestorm' name="Firestorm" special="Weapon Ability: Comes equipped with under-barrel flamethrower. D6, in 5 metter 30-degree cone. USABLE ONCE per encounter.">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_ERCS' name="Elanus Risk Control Services">
+		<weapon key='man_ERCS_weapon_SH_hurricane' name="Hurricane" special="Weapon Ability: On CRIT, destabalize target for 1 turn. Destabalized target can be knocked down by another player for 1 turn.">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='1' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='1' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='2' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='2' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_EC' name="Elkoss Combine">
+		<weapon key='man_EC_weapon_SH_scimitar' name="Scimitar">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_HK' name="Hahne-Kedar">
+		<weapon key='man_HK_weapon_SH_storm' name="Storm">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_HA' name="Haliat Armory">
+		<weapon key='man_HA_weapon_SH_tornado' name="Tornado">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_JT' name="Jormangund Technology">
+		<weapon key='man_JT_weapon_SH_savage' name="Savage">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_KF' name="Kassa Fabrication">
+		<weapon key='man_KF_weapon_SH_armageddon' name="Armageddon">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_RM' name="Rosenkov Materials">
+		<weapon key='man_RM_weapon_SH_sokolov' name="Sokolov">
+			<rarity key='0' speed='1' damage='6' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='1' speed='1' damage='8' mod_slots='0' crit_chance='0' crit_multiplier='1' />
+			<rarity key='2' speed='1' damage='8' mod_slots='1' crit_chance='0' crit_multiplier='1' />
+			<rarity key='3' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+			<rarity key='4' speed='1' damage='10' mod_slots='2' crit_chance='0' crit_multiplier='1' />
+		</weapon>
+	</manufacturer>
+
+
+
+</weapon_type>

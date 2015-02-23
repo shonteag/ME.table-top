@@ -1,0 +1,8 @@
+NAME,CLASS,HEALTH RATIO,SHIELD RATIO,WEAPON SLOT 1,WEAPON SLOT 2,POWER SLOT 1,POWER SLOT 2,POWER SLOT 3
+Blue Suns Trooper,SOL,0.5,0.3,AR,SH,n/a,n/a,n/a
+Blue Suns Engineer,ENG,0.5,1,SH,n/a,Incinerate,Shield Boost,n/a
+Blue Suns Centurion,SEN,0.7,0.5,AR,SH,Tech Armor,n/a,n/a
+Blue Suns Legionnaire,SOL,0.5,0.5,AR,n/a,n/a,n/a,n/a
+Blue Suns Heavy,SOL,0.2,0.5,HW,n/a,n/a,n/a,n/a
+Blue Suns Commander,SOL,0.7,0.7,AR,n/a,Concussive Shot,Carnage,Arc Grenade
+Blue Suns Scout,INF,0.3,0.3,SR,n/a,Tactical Cloak,n/a,n/a

@@ -1,0 +1,11 @@
+<armor_type key='armor_heavy' name='Heavy Armor'>
+	<manufacturer key='man_AT' name="Ariake Technologies">
+		<armor key='man_AT_armor_heavy_mercenary' name='Mercenary'>
+			<rarity key='0' shield='60' shield_recharge='5' damage_reduction='5' mod_slots='0' />
+			<rarity key='1' shield='70' shield_recharge='10' damage_reduction='6' mod_slots='0' />
+			<rarity key='2' shield='80' shield_recharge='15' damage_reduction='7' mod_slots='0' />
+			<rarity key='3' shield='90' shield_recharge='20' damage_reduction='8' mod_slots='0' />
+			<rarity key='4' shield='100' shield_recharge='25' damage_reduction='9' mod_slots='0' />
+		</armor>
+	</manufacturer>
+</armor_type>

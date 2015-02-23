@@ -1,0 +1,42 @@
+<html><body><div style='width:100%;margin-top:55px;'>
+	<style>
+	#header a {
+	width: 100px;
+	height: 30px;
+	color: black;
+	float: left;
+	underline: none;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	}
+	#header a:hover {
+	background-color:white;
+	}
+	#header a.active {
+	background-color:white;
+	}
+
+	body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color:grey;
+	}
+
+	h1, h2, h3, h4, h5 {
+	margin-bottom:3px;
+	}
+	</style>
+	<div id="header" style="width:100%;height:50px;background-color:lightgray;color:white;position:fixed;border-bottom:2px white;padding:0px; margin:-55 -8 0 -8"><a href="index.html" >Game</a><a href="hub.html" class="active">Current Hub</a><a href="encounter.html" >Encounter</a><a href="loot.html" >Loot</a></div><h2>Planet <span style='color:yellow'>Test</span>, Area <span style='color:yellow'>asdfasdf</span></h2><i>Recommended Level <span style='color:yellow'>12</span>, Average Difficulty <span style='color:yellow'>2</span></i><br />None
+<br /><hr />
+	<script type="text/javascript">
+	<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+	//-->
+	</script>
+	<h4 onclick="toggle_visibility('missions')">Missions</h4><div id='missions' style='width:100%;background-color:white;'><div style='width:100%;margin:5px;background-color:lightgray;box-shadow:3px 3px 2px gray;border-radius:2px;padding:2px;'><b>Sasdfefs</b>, Level 12, Difficulty (1-4) 3<br /><div style='width:100%;margin:4px;'>No description available.</div><div style='width:100%;margin:4px;'>NO REWARD</div></div></div><h4 onclick="toggle_visibility('store')">Stores</h4><div id='Stores' style='width:100%;'></div></div></body></html>

@@ -1,0 +1,47 @@
+<weapon_type key='SMG' name='Submachine Gun'>
+	<manufacturer key='man_EC' name="Elkoss Combine">
+		<weapon key='man_EC_weapon_SMG_shuriken' name='Shuriken'>
+			<rarity key='0' speed='2' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.05' />
+			<rarity key='1' speed='3' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.1' />
+			<rarity key='2' speed='4' damage='4' mod_slots='1' crit_chance='2' crit_multiplier='1.2' />
+			<rarity key='3' speed='3' damage='6' mod_slots='2' crit_chance='2' crit_multiplier='1.3' />
+			<rarity key='4' speed='4' damage='6' mod_slots='2' crit_chance='3' crit_multiplier='1.4' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_ERCS' name='Elanus Risk Control Services'>
+		<weapon key='man_ERCS_weapon_SMG_tempest' name='Tempest'>
+			<rarity key='0' speed='2' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.05' />
+			<rarity key='1' speed='3' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.1' />
+			<rarity key='2' speed='4' damage='4' mod_slots='1' crit_chance='2' crit_multiplier='1.2' />
+			<rarity key='3' speed='3' damage='6' mod_slots='2' crit_chance='2' crit_multiplier='1.3' />
+			<rarity key='4' speed='4' damage='6' mod_slots='2' crit_chance='3' crit_multiplier='1.4' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_KF' name='Kassa Fabrication'>
+		<weapon key='man_KF_weapon_SMG_locust' name='Locust'>
+			<rarity key='0' speed='2' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.05' />
+			<rarity key='1' speed='3' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.1' />
+			<rarity key='2' speed='4' damage='4' mod_slots='1' crit_chance='2' crit_multiplier='1.2' />
+			<rarity key='3' speed='3' damage='6' mod_slots='2' crit_chance='2' crit_multiplier='1.3' />
+			<rarity key='4' speed='4' damage='6' mod_slots='2' crit_chance='3' crit_multiplier='1.4' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_CS' name='Cerberus Skunkworks'>
+		<weapon key='man_CS_weapon_SMG_hornet' name='Hornet'>
+			<rarity key='0' speed='2' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.05' />
+			<rarity key='1' speed='3' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.1' />
+			<rarity key='2' speed='4' damage='4' mod_slots='1' crit_chance='2' crit_multiplier='1.2' />
+			<rarity key='3' speed='3' damage='6' mod_slots='2' crit_chance='2' crit_multiplier='1.3' />
+			<rarity key='4' speed='4' damage='6' mod_slots='2' crit_chance='3' crit_multiplier='1.4' />
+		</weapon>
+	</manufacturer>
+	<manufacturer key='man_SA' name='Systems Alliance'>
+		<weapon key='man_SA_weapon_SMG_hurricane' name='N7 Hurricane'>
+			<rarity key='0' speed='2' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.05' />
+			<rarity key='1' speed='3' damage='4' mod_slots='0' crit_chance='1' crit_multiplier='1.1' />
+			<rarity key='2' speed='4' damage='4' mod_slots='1' crit_chance='2' crit_multiplier='1.2' />
+			<rarity key='3' speed='3' damage='6' mod_slots='2' crit_chance='2' crit_multiplier='1.3' />
+			<rarity key='4' speed='4' damage='6' mod_slots='2' crit_chance='3' crit_multiplier='1.4' />
+		</weapon>
+	</manufacturer>
+</weapon_type>

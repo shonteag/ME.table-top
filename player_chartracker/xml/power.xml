@@ -1,0 +1,396 @@
+<collection shelf="powers">
+	<power name="Adrenaline Rush" key="tech_adrenalinerush">
+		<cd>7</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Arc Grenade" key="tech_grenade_arc">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>2</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Carnage" key="tech_carnage">
+		<cd>10</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Concussive Shot" key="tech_concussive">
+		<cd>7</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Cryo Blast" key="tech_cryoblast">
+		<cd>10</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Decoy" key="tech_decoy">
+		<cd>10</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Energy Drain" key="tech_drain">
+		<cd>10</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Fortification" key='tech_fortification'>
+		<cd>sustained</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Frag Grenade" key="tech_grenade_frag">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Hawk Missle Launcher" key="tech_misslelauncher">
+		<cd>sustained</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Homing Grenade" key="tech_grenade_homing">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>True</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Incinerate" key="tech_incinerate">
+		<cd>7</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>True</detonator>
+		<duration>3</duration>
+		<dot>True</dot>
+		<dot_tick>8</dot_tick>
+	</power>
+	<power name="Inferno Grenade" key="tech_grenade_inferno">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Marksman" key="tech_marksman">
+		<cd>7</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Multi-Frag Grenade" key="tech_grenade_multi">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Overload" key="tech_overload">
+		<cd>7</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Palm Snipe" key="tech_palmsnipe">
+		<cd>0</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Proximity Mine" key="tech_mine_proximity">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Recon Mine" key="tech_mine_recon">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Repair Matrix" key="tech_repairmatrix">
+		<cd>3</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Sentry Turret" key="tech_turret">
+		<cd>sustained</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Shadow Strike" key="tech_shadowstrike">
+		<cd>0</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Shield Boost" key="tech_shieldboost">
+		<cd>5</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Snap Freeze" key="tech_snapfreeze">
+		<cd>3</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Supply Pylon" key="tech_pylon">
+		<cd>sustained</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Tactical Cloak" key="tech_cloak">
+		<cd>sustained</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Tactical Scan" key="tech_tacscan">
+		<cd>25</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Tech Armor" key="tech_techarmor">
+		<cd>sustained</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+
+
+
+	<power name="Annihilation Field" key="biotic_annihilation">
+		<cd>10</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>1</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Barrier" key="biotic_barrier">
+		<cd>10</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>5</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Biotic Charge" key="biotic_charge">
+		<cd>5</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Lash" key="biotic_lash">
+		<cd>2</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Nightshade Blades" key="biotic_nightshadeblades">
+		<cd>grenade_charge</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>5</duration>
+		<dot>True</dot>
+		<dot_tick>4</dot_tick>
+	</power>
+	<power name="Nova" key="biotic_nova">
+		<cd>0</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Poison Strike" key="biotic_poisonstrike">
+		<cd>5</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>5</duration>
+		<dot>True</dot>
+		<dot_tick>4</dot_tick>
+	</power>
+	<power name="Pull" key="biotic_pull">
+		<cd>5</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Shockwave" key="biotic_shockwave">
+		<cd>10</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Singularity" key="biotic_singularity">
+		<cd>20</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>3</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Slam" key="biotic_slam">
+		<cd>8</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Smash" key="biotic_smash">
+		<cd>7</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>False</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Stasis" key="biotic_stasis">
+		<cd>15</cd>
+		<damage>0</damage>
+		<special>True</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>4</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Throw" key="biotic_throw">
+		<cd>5</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>False</primer>
+		<detonator>True</detonator>
+		<duration>0</duration>
+		<dot>False</dot>
+	</power>
+	<power name="Warp" key="biotic_warp">
+		<cd>6</cd>
+		<damage>0</damage>
+		<special>False</special>
+		<primer>True</primer>
+		<detonator>False</detonator>
+		<duration>2</duration>
+		<dot>True</dot>
+		<dot_tick>4</dot_tick>
+	</power>
+</collection>

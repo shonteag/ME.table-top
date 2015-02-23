@@ -1,0 +1,11 @@
+<armor_type key='armor_light' name='Light Armor'>
+	<manufacturer key='man_AT' name="Ariake Technologies">
+		<armor key='man_AT_armor_light_mercenary' name='Mercenary'>
+			<rarity key='0' shield='20' shield_recharge='2' damage_reduction='0' mod_slots='0' />
+			<rarity key='1' shield='30' shield_recharge='5' damage_reduction='0' mod_slots='0' />
+			<rarity key='2' shield='40' shield_recharge='7' damage_reduction='0' mod_slots='0' />
+			<rarity key='3' shield='50' shield_recharge='10' damage_reduction='0' mod_slots='0' />
+			<rarity key='4' shield='70' shield_recharge='20' damage_reduction='0' mod_slots='0' />
+		</armor>
+	</manufacturer>
+</armor_type>
